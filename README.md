@@ -100,17 +100,6 @@ And parts in Navbar
 
 And also using some parts like LocalStorage, Html, Css, JS, etc…
 
-# Rahul kailash Pawar:
-
-Myself Rahul kailash Pawar, This is my Second collaborative team project at Masai school. I’m going to tell you my contribution in this project.
-
-Here’s my LinkedIn profile:- https://www.linkedin.com/in/rahul-pawar-8138641a7
-
-My contributions in this projects starts from the Products Page, and Continues with some major parts like,
-
-T-Shirt Page
-
-And also using some parts like LocalStorage, Html, Css, JS, etc…
 
 # Rajan Kumar:
 
@@ -125,6 +114,19 @@ Carts Page
 Payment Page
 
 And also using some parts like LocalStorage, Html, Css, JS, etc…
+
+# Rahul kailash Pawar:
+
+Myself Rahul kailash Pawar, This is my Second collaborative team project at Masai school. I’m going to tell you my contribution in this project.
+
+Here’s my LinkedIn profile:- https://www.linkedin.com/in/rahul-pawar-8138641a7
+
+My contributions in this projects starts from the Products Page, and Continues with some major parts like,
+
+T-Shirt Page
+
+And also using some parts like LocalStorage, Html, Css, JS, etc…
+
 
 ___________________________________________________________________
 
